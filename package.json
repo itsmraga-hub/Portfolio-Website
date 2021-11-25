@@ -13,5 +13,19 @@
   "default": "index.html",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1"
-  }
+  },
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Personal developer website",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmraga-hub/Portfolio-Website.git"
+  },
+  "author": "William Raga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmraga-hub/Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/itsmraga-hub/Portfolio-Website#readme"
 }
