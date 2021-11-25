@@ -10,7 +10,7 @@
     "start": "parcel",
     "build": "parcel build"
   },
-  "main": "index.js",
+  "main": "dist/index.html",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1"
   }
