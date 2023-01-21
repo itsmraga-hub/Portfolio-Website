@@ -17,7 +17,6 @@
   "name": "myportfolio",
   "version": "1.0.0",
   "description": "Personal developer website",
-  "default": "index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/itsmraga-hub/Portfolio-Website.git"
