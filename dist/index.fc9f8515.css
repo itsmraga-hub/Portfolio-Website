@@ -10773,9 +10773,9 @@ section {
   bottom: 0;
   right: 0;
   z-index: -1;
-  /* background: url("/src/assets/[your-image].png");
+  background: url("caspar-camille-rubin-fPkvU7RDmCo-unsplash.2465568c.jpg");
   background-position: center;
-  background-size: cover; */
+  background-size: cover;
 }
 @media (max-width: 37.5em) {
   #hero {
