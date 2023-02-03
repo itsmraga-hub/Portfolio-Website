@@ -1,4 +1,4 @@
-17299
+17301
 56C:\Portfolio-Website\node_modules\is-date-object\LICENSE133183513208506763 0
 76C:\Portfolio-Website\node_modules\@parcel\transformer-json\node_modules\.bin133183514159844056 1
 40C:\Portfolio-Website\node_modules\dotenv133183513229907176 1
@@ -71,7 +71,7 @@
 64C:\Portfolio-Website\node_modules\source-map-support\register.js133183513120488330 0
 59C:\Portfolio-Website\node_modules\ajv\lib\dotjs\contains.js133183513559756585 0
 42C:\Portfolio-Website\node_modules\css-tree133183513752039410 1
-25C:\Portfolio-Website\dist133199187520905054 1
+25C:\Portfolio-Website\dist133199191460269880 1
 86C:\Portfolio-Website\node_modules\@babel\core\node_modules\minimist\test\stop_early.js133183513446967231 0
 24C:\Portfolio-Website\src133183506008146905 1
 54C:\Portfolio-Website\node_modules\ansi-regex\readme.md133183513161793245 0
@@ -161,7 +161,7 @@
 73C:\Portfolio-Website\node_modules\core-js\stable\function\virtual\bind.js133183513729327160 0
 69C:\Portfolio-Website\node_modules\caniuse-lite\dist\unpacker\index.js133183513901700534 0
 42C:\Portfolio-Website\node_modules\chokidar133183513316479512 1
-35C:\Portfolio-Website\src\index.html133199184255281995 0
+35C:\Portfolio-Website\src\index.html133199189047242481 0
 69C:\Portfolio-Website\node_modules\es-abstract\2017\SetFunctionName.js133183513992218776 0
 85C:\Portfolio-Website\node_modules\lmdb-store\prebuilds\linux-x64\node.abi93.musl.node133183513904990538 0
 70C:\Portfolio-Website\node_modules\core-js\modules\esnext.map.key-by.js133183513950747535 0
@@ -925,7 +925,7 @@
 57C:\Portfolio-Website\node_modules\uuid\lib\rng-browser.js133183513284059179 0
 74C:\Portfolio-Website\node_modules\jsdom\lib\jsdom\living\generated\Text.js133183513830659747 0
 44C:\Portfolio-Website\node_modules\parse-asn1133183513285027362 1
-49C:\Portfolio-Website\src\sass\sections\_hero.scss133199187517342265 0
+49C:\Portfolio-Website\src\sass\sections\_hero.scss133199191500765476 0
 89C:\Portfolio-Website\node_modules\postcss-modules\node_modules\postcss\lib\lazy-result.js133183513343166362 0
 36C:\Portfolio-Website\node_modules\is133183513229847185 1
 60C:\Portfolio-Website\node_modules\object.assign\node_modules133183512507434224 1
@@ -4443,7 +4443,7 @@
 60C:\Portfolio-Website\node_modules\lodash\fp\toPlainObject.js133183514013884005 0
 89C:\Portfolio-Website\node_modules\uncss\node_modules\delayed-stream\lib\delayed_stream.js133183513244102510 0
 79C:\Portfolio-Website\node_modules\split2\node_modules\readable-stream\README.md133183513516842232 0
-43C:\Portfolio-Website\dist\index.379dd93c.js133199184417282349 0
+43C:\Portfolio-Website\dist\index.379dd93c.js133199190763377405 0
 75C:\Portfolio-Website\node_modules\uncss\node_modules\commander\CHANGELOG.md133183513179919687 0
 80C:\Portfolio-Website\node_modules\es-abstract\2020\CompletePropertyDescriptor.js133183513742241251 0
 70C:\Portfolio-Website\node_modules\uncss\node_modules\commander\LICENSE133183512950521687 0
@@ -6144,7 +6144,7 @@
 54C:\Portfolio-Website\node_modules\getpass\package.json133183512937493304 0
 58C:\Portfolio-Website\node_modules\querystring\package.json133183512916847428 0
 57C:\Portfolio-Website\node_modules\@parcel\types\unsafe.js133183513199518701 0
-49C:\Portfolio-Website\dist\book-store.3bf6ed8c.png133199184417252363 0
+49C:\Portfolio-Website\dist\book-store.3bf6ed8c.png133199190763287393 0
 50C:\Portfolio-Website\node_modules\querystring\test133183513433185223 1
 59C:\Portfolio-Website\node_modules\querystring\test\index.js133183513416295278 0
 64C:\Portfolio-Website\node_modules\@parcel\core\src\Dependency.js133183513628198430 0
@@ -11920,7 +11920,7 @@
 78C:\Portfolio-Website\node_modules\core-js\features\array\virtual\find-index.js133183513977528907 0
 68C:\Portfolio-Website\node_modules\@parcel\core\src\CommittedAsset.js133183513599358720 0
 77C:\Portfolio-Website\node_modules\es-abstract\helpers\isPropertyDescriptor.js133183513920950932 0
-49C:\Portfolio-Website\dist\budget-app.b12ecae3.png133199184417262367 0
+49C:\Portfolio-Website\dist\budget-app.b12ecae3.png133199190763257411 0
 65C:\Portfolio-Website\node_modules\caniuse-lite\data\regions\DE.js133183513827551411 0
 71C:\Portfolio-Website\node_modules\es-abstract\helpers\maxSafeInteger.js133183513949442030 0
 62C:\Portfolio-Website\node_modules\css-tree\lib\syntax\function133183513740881276 1
@@ -12235,7 +12235,7 @@
 73C:\Portfolio-Website\node_modules\@parcel\fs-write-stream-atomic\index.js133183513177818363 0
 74C:\Portfolio-Website\node_modules\@iarna\toml\lib\create-datetime-float.js133183513075441140 0
 49C:\Portfolio-Website\node_modules\chalk\readme.md133183513248711863 0
-36C:\Portfolio-Website\dist\index.html133199184417292351 0
+36C:\Portfolio-Website\dist\index.html133199190763617428 0
 66C:\Portfolio-Website\node_modules\core-js\stable\string\pad-end.js133183514060561508 0
 76C:\Portfolio-Website\node_modules\es-abstract\2020\OrdinaryGetPrototypeOf.js133183513970135782 0
 73C:\Portfolio-Website\node_modules\es-abstract\2020\Number\exponentiate.js133183513819350374 0
@@ -13082,7 +13082,7 @@
 57C:\Portfolio-Website\node_modules\domhandler\lib\index.js133183513003632580 0
 61C:\Portfolio-Website\node_modules\crypto-browserify\.zuul.yml133183513054643952 0
 58C:\Portfolio-Website\node_modules\domhandler\lib\node.d.ts133183513325012072 0
-44C:\Portfolio-Website\dist\index.fc9f8515.css133199187496603176 0
+44C:\Portfolio-Website\dist\index.fc9f8515.css133199191460129928 0
 58C:\Portfolio-Website\node_modules\domexception\LICENSE.txt133183512979937798 0
 56C:\Portfolio-Website\node_modules\domexception\README.md133183513052293020 0
 79C:\Portfolio-Website\node_modules\core-js\internals\object-define-properties.js133183514056681371 0
@@ -13493,7 +13493,7 @@
 66C:\Portfolio-Website\node_modules\css-tree\lib\syntax\node\Rule.js133183513723953010 0
 70C:\Portfolio-Website\node_modules\core-js\stable\array\virtual\find.js133183513983473761 0
 68C:\Portfolio-Website\node_modules\css-tree\lib\syntax\node\String.js133183513728926760 0
-51C:\Portfolio-Website\dist\IMG_9521 (5).2a792500.jpg133199184417249443 0
+51C:\Portfolio-Website\dist\IMG_9521 (5).2a792500.jpg133199190763257411 0
 74C:\Portfolio-Website\node_modules\css-tree\lib\syntax\node\TypeSelector.js133183513736651524 0
 72C:\Portfolio-Website\node_modules\@parcel\optimizer-cssnano\package.json133183513191729991 0
 65C:\Portfolio-Website\node_modules\css-tree\lib\syntax\node\Url.js133183513738050070 0
@@ -14657,6 +14657,7 @@
 125C:\Portfolio-Website\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json133183513777014985 0
 64C:\Portfolio-Website\node_modules\core-js\features\math\scale.js133183514070965616 0
 82C:\Portfolio-Website\node_modules\@popperjs\core\dist\esm\dom-utils\getNodeName.js133183513736981490 0
+80C:\Portfolio-Website\dist\caspar-camille-rubin-fPkvU7RDmCo-unsplash.2465568c.jpg133199190108966373 0
 63C:\Portfolio-Website\node_modules\core-js\features\math\sinh.js133183514116939841 0
 64C:\Portfolio-Website\node_modules\core-js\features\math\trunc.js133183514153579751 0
 68C:\Portfolio-Website\node_modules\core-js\features\map\delete-all.js133183513792402769 0
@@ -17286,15 +17287,16 @@
 47C:\Portfolio-Website\node_modules\.bin\uuid.cmd133183514161014247 0
 47C:\Portfolio-Website\node_modules\.bin\uuid.ps1133183514161014247 0
 48C:\Portfolio-Website\node_modules\.bin\which.ps1133183514161034240 0
-69C:\Portfolio-Website\dist\altumcode-dMUt0X3f59Q-unsplash.66a27bc3.jpg133199187496563172 0
-32C:\Portfolio-Website\dist\assets133199184417262367 1
-47C:\Portfolio-Website\dist\download.542d5a3e.jpg133199184417272371 0
-47C:\Portfolio-Website\dist\index.379dd93c.js.map133199184417592382 0
+69C:\Portfolio-Website\dist\altumcode-dMUt0X3f59Q-unsplash.66a27bc3.jpg133199190763297421 0
+32C:\Portfolio-Website\dist\assets133199190759657075 1
+47C:\Portfolio-Website\dist\download.542d5a3e.jpg133199190763257411 0
+47C:\Portfolio-Website\dist\index.379dd93c.js.map133199190763517407 0
 44C:\Portfolio-Website\dist\index.af814d91.css133183505998787341 0
 48C:\Portfolio-Website\dist\index.af814d91.css.map133183505998797352 0
-48C:\Portfolio-Website\dist\index.fc9f8515.css.map133199187496643173 0
+48C:\Portfolio-Website\dist\index.fc9f8515.css.map133199191460256108 0
+70C:\Portfolio-Website\dist\muha-ajjan-sL2BRR1cuvM-unsplash.1a14c9be.jpg133199188001096998 0
 46C:\Portfolio-Website\dist\project.363fc093.jpg133187838725462408 0
 75C:\Portfolio-Website\dist\quinton-coetzee-06AOMufM7jY-unsplash.b5220419.jpg133199187340062969 0
-47C:\Portfolio-Website\dist\tusomeni.c999b5bc.png133199184417242377 0
-58C:\Portfolio-Website\dist\assets\William Raga Resume 5.pdf133199184416752365 0
+47C:\Portfolio-Website\dist\tusomeni.c999b5bc.png133199190763257411 0
+58C:\Portfolio-Website\dist\assets\William Raga Resume 5.pdf133199190759597083 0
 42C:\Portfolio-Website\.vscode\settings.json133183505998617539 0
