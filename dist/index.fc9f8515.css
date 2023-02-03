@@ -10776,8 +10776,6 @@ section {
   background: url("altumcode-dMUt0X3f59Q-unsplash.66a27bc3.jpg");
   background-position: center;
   background-size: cover;
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
 }
 @media (max-width: 37.5em) {
   #hero {
