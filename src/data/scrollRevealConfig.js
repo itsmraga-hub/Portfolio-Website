@@ -1,7 +1,8 @@
 export const defaultProps = {
     easing: "cubic-bezier(0.5, 0, 0, 1)",
     distance: "30px",
-    duration: 1000,
+    // duration: 1000,
+    duration: 0,
     desktop: true,
     mobile: true,
   };
@@ -10,7 +11,7 @@ export const defaultProps = {
     {
       element: ".section-title",
       animation: {
-        delay: 300,
+        delay: 0,
         distance: "0px",
         origin: "bottom",
       },
@@ -18,14 +19,16 @@ export const defaultProps = {
     {
       element: ".hero-title",
       animation: {
-        delay: 500,
+        // delay: 500,
+        delay: 0,
         origin: window.innerWidth > 768 ? "left" : "bottom",
       },
     },
     {
       element: ".hero-cta",
       animation: {
-        delay: 1000,
+        // delay: 1000,
+        delay: 0,
         origin: window.innerWidth > 768 ? "left" : "bottom",
       },
     },
@@ -46,21 +49,24 @@ export const defaultProps = {
     {
       element: ".project-wrapper__text",
       animation: {
-        delay: 500,
+        // delay: 500,
+        delay: 0,
         origin: window.innerWidth > 768 ? "left" : "bottom",
       },
     },
     {
       element: ".project-wrapper__image",
       animation: {
-        delay: 1000,
+        // delay: 1000,
+        delay: 500,
         origin: window.innerWidth > 768 ? "right" : "bottom",
       },
     },
     {
       element: ".contact-wrapper",
       animation: {
-        delay: 800,
+        // delay: 800,
+        delay: 0,
         origin: "bottom",
       },
     },
